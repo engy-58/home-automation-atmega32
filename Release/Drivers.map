@@ -1,0 +1,1282 @@
+Archive member included because of file (symbol)
+
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./APP/main.o (__udivmodqi4)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./APP/main.o (__udivmodhi4)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./APP/main.o (__divmodhi4)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./HAL/LCD/LCD_prg.o (__udivmodsi4)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./freeRTOS/RTOS/Free_RTOS/tasks.o (__do_copy_data)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./freeRTOS/RTOS/Free_RTOS/croutine.o (__do_clear_bss)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./HAL/STEPPER/STEPPER_prg.o (__fixunssfsi)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./HAL/STEPPER/STEPPER_prg.o (__mulsf3)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./HAL/STEPPER/STEPPER_prg.o (__gtsf2)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./HAL/STEPPER/STEPPER_prg.o (__ltsf2)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              ./freeRTOS/RTOS/Free_RTOS/queue.o (memcpy)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                              ./freeRTOS/RTOS/Free_RTOS/tasks.o (memset)
+c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              ./freeRTOS/RTOS/Free_RTOS/tasks.o (strncpy)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/croutine.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/list.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/port.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/queue.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/tasks.o
+LOAD ./freeRTOS/RTOS/Free_RTOS/timers.o
+LOAD ./RTOS/RTOS_prg.o
+LOAD ./MCAL/WDT/WDT_prg.o
+LOAD ./MCAL/USART/USART_prg.o
+LOAD ./MCAL/TWI/TWI_prg.o
+LOAD ./MCAL/TIMERS/TIMERS_prg.o
+LOAD ./MCAL/SPI/SPI_prg.o
+LOAD ./MCAL/GIE/GIE_prg.o
+LOAD ./MCAL/EXTI/EXTI_prg.o
+LOAD ./MCAL/DIO/DIO_prg.o
+LOAD ./MCAL/ADC/ADC_prg.o
+LOAD ./HAL/STEPPER/STEPPER_prg.o
+LOAD ./HAL/SSD/SSD_prg.o
+LOAD ./HAL/LCD/LCD_prg.o
+LOAD ./HAL/KPD/KPD_prg.o
+LOAD ./APP/main.o
+LOAD c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x4bd6
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/list.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/port.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/queue.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .text          0x00000092        0x0 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .text          0x00000092        0x0 ./RTOS/RTOS_prg.o
+ .text          0x00000092        0x0 ./MCAL/WDT/WDT_prg.o
+ .text          0x00000092        0x0 ./MCAL/USART/USART_prg.o
+ .text          0x00000092        0x0 ./MCAL/TWI/TWI_prg.o
+ .text          0x00000092        0x0 ./MCAL/TIMERS/TIMERS_prg.o
+ .text          0x00000092        0x0 ./MCAL/SPI/SPI_prg.o
+ .text          0x00000092        0x0 ./MCAL/GIE/GIE_prg.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_prg.o
+ .text          0x00000092        0x0 ./MCAL/ADC/ADC_prg.o
+ .text          0x00000092        0x0 ./HAL/STEPPER/STEPPER_prg.o
+ .text          0x00000092        0x0 ./HAL/SSD/SSD_prg.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_prg.o
+ .text          0x00000092        0x0 ./HAL/KPD/KPD_prg.o
+ .text          0x00000092        0x0 ./APP/main.o
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632       0x60 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000632                __gtsf2
+ .text          0x00000692       0x60 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000692                __gesf2
+ .text          0x000006f2       0x60 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006f2                __ltsf2
+ .text          0x00000752       0xa8 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000752                __fixsfsi
+ .text          0x000007fa        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x000007fa        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000007fa        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000007fa      0x1aa c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x000007fa                __pack_f
+ .text          0x000009a4       0xf0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x000009a4                __unpack_f
+ .text          0x00000a94       0xb2 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000a94                __fpcmp_parts_f
+ .text          0x00000b46        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000b46        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000b46        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00000b46                . = ALIGN (0x2)
+ *(.text.*)
+ .text.xCoRoutineRemoveFromEventList
+                0x00000b46       0x4e ./freeRTOS/RTOS/Free_RTOS/croutine.o
+                0x00000b46                xCoRoutineRemoveFromEventList
+ .text.vCoRoutineSchedule
+                0x00000b94      0x1c0 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+                0x00000b94                vCoRoutineSchedule
+ .text.vCoRoutineAddToDelayedList
+                0x00000d54       0x7a ./freeRTOS/RTOS/Free_RTOS/croutine.o
+                0x00000d54                vCoRoutineAddToDelayedList
+ .text.xCoRoutineCreate
+                0x00000dce       0xf4 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+                0x00000dce                xCoRoutineCreate
+ .text.vPortFree
+                0x00000ec2        0x2 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+                0x00000ec2                vPortFree
+ .text.vPortInitialiseBlocks
+                0x00000ec4        0xa ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+                0x00000ec4                vPortInitialiseBlocks
+ .text.xPortGetFreeHeapSize
+                0x00000ece       0x14 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+                0x00000ece                xPortGetFreeHeapSize
+ .text.pvPortMalloc
+                0x00000ee2       0x4e ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+                0x00000ee2                pvPortMalloc
+ .text.vListInitialise
+                0x00000f30       0x20 ./freeRTOS/RTOS/Free_RTOS/list.o
+                0x00000f30                vListInitialise
+ .text.vListInitialiseItem
+                0x00000f50        0x8 ./freeRTOS/RTOS/Free_RTOS/list.o
+                0x00000f50                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000f58       0x52 ./freeRTOS/RTOS/Free_RTOS/list.o
+                0x00000f58                vListInsertEnd
+ .text.vListInsert
+                0x00000faa       0x6a ./freeRTOS/RTOS/Free_RTOS/list.o
+                0x00000faa                vListInsert
+ .text.vListRemove
+                0x00001014       0x50 ./freeRTOS/RTOS/Free_RTOS/list.o
+                0x00001014                vListRemove
+ .text.pxPortInitialiseStack
+                0x00001064       0x90 ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x00001064                pxPortInitialiseStack
+ .text.xPortStartScheduler
+                0x000010f4       0x6a ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x000010f4                xPortStartScheduler
+ .text.vPortEndScheduler
+                0x0000115e        0x2 ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x0000115e                vPortEndScheduler
+ .text.vPortYieldFromTick
+                0x00001160       0xb6 ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x00001160                vPortYieldFromTick
+ .text.__vector_7
+                0x00001216        0x6 ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x00001216                __vector_7
+ .text.vPortYield
+                0x0000121c       0xb2 ./freeRTOS/RTOS/Free_RTOS/port.o
+                0x0000121c                vPortYield
+ .text.uxQueueMessagesWaiting
+                0x000012ce       0x10 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000012ce                uxQueueMessagesWaiting
+ .text.uxQueueMessagesWaitingFromISR
+                0x000012de        0x6 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000012de                uxQueueMessagesWaitingFromISR
+ .text.xQueueIsQueueEmptyFromISR
+                0x000012e4       0x10 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000012e4                xQueueIsQueueEmptyFromISR
+ .text.xQueueIsQueueFullFromISR
+                0x000012f4       0x12 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000012f4                xQueueIsQueueFullFromISR
+ .text.prvUnlockQueue
+                0x00001306       0x80 ./freeRTOS/RTOS/Free_RTOS/queue.o
+ .text.vQueueWaitForMessageRestricted
+                0x00001386       0x3a ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x00001386                vQueueWaitForMessageRestricted
+ .text.vQueueDelete
+                0x000013c0       0x1c ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000013c0                vQueueDelete
+ .text.xQueueReceiveFromISR
+                0x000013dc       0x7e ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000013dc                xQueueReceiveFromISR
+ .text.xQueueGenericReceive
+                0x0000145a      0x1ca ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x0000145a                xQueueGenericReceive
+ .text.prvCopyDataToQueue
+                0x00001624       0x98 ./freeRTOS/RTOS/Free_RTOS/queue.o
+ .text.xQueueGenericSendFromISR
+                0x000016bc       0x50 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000016bc                xQueueGenericSendFromISR
+ .text.xQueueGenericSend
+                0x0000170c      0x148 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x0000170c                xQueueGenericSend
+ .text.xQueueCreateMutex
+                0x00001854       0x58 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x00001854                xQueueCreateMutex
+ .text.xQueueCreate
+                0x000018ac       0xbe ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x000018ac                xQueueCreate
+ .text.xQueueCreateCountingSemaphore
+                0x0000196a       0x18 ./freeRTOS/RTOS/Free_RTOS/queue.o
+                0x0000196a                xQueueCreateCountingSemaphore
+ .text.xTaskIsTaskSuspended
+                0x00001982       0x28 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001982                xTaskIsTaskSuspended
+ .text.vTaskSuspendAll
+                0x000019aa        0xc ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000019aa                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x000019b6       0x16 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000019b6                xTaskGetTickCount
+ .text.xTaskGetTickCountFromISR
+                0x000019cc        0xc ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000019cc                xTaskGetTickCountFromISR
+ .text.uxTaskGetNumberOfTasks
+                0x000019d8        0x6 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000019d8                uxTaskGetNumberOfTasks
+ .text.vTaskSwitchContext
+                0x000019de       0x84 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000019de                vTaskSwitchContext
+ .text.vTaskSetTimeOutState
+                0x00001a62       0x16 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001a62                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00001a78       0x7c ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001a78                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00001af4        0x8 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001af4                vTaskMissedYield
+ .text.xTaskGetCurrentTaskHandle
+                0x00001afc        0xc ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001afc                xTaskGetCurrentTaskHandle
+ .text.xTaskGetSchedulerState
+                0x00001b08       0x18 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001b08                xTaskGetSchedulerState
+ .text.vTaskPriorityDisinherit
+                0x00001b20       0x5a ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001b20                vTaskPriorityDisinherit
+ .text.vTaskPriorityInherit
+                0x00001b7a       0x94 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001b7a                vTaskPriorityInherit
+ .text.xTaskRemoveFromEventList
+                0x00001c0e       0x7e ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001c0e                xTaskRemoveFromEventList
+ .text.vTaskIncrementTick
+                0x00001c8c      0x148 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001c8c                vTaskIncrementTick
+ .text.xTaskResumeFromISR
+                0x00001dd4       0x9c ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001dd4                xTaskResumeFromISR
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001e70       0x6e ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .text.vTaskPlaceOnEventListRestricted
+                0x00001ede       0x3a ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001ede                vTaskPlaceOnEventListRestricted
+ .text.vTaskPlaceOnEventList
+                0x00001f18       0x58 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001f18                vTaskPlaceOnEventList
+ .text.xTaskResumeAll
+                0x00001f70       0xf6 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00001f70                xTaskResumeAll
+ .text.vTaskResume
+                0x00002066       0x92 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00002066                vTaskResume
+ .text.vTaskSuspend
+                0x000020f8       0xa2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000020f8                vTaskSuspend
+ .text.vTaskDelay
+                0x0000219a       0x4e ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x0000219a                vTaskDelay
+ .text.vTaskDelayUntil
+                0x000021e8       0x78 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000021e8                vTaskDelayUntil
+ .text.vTaskDelete
+                0x00002260       0x9a ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00002260                vTaskDelete
+ .text.vTaskEndScheduler
+                0x000022fa        0xc ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000022fa                vTaskEndScheduler
+ .text.prvIdleTask
+                0x00002306       0x66 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .text.xTaskGenericCreate
+                0x0000236c      0x254 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x0000236c                xTaskGenericCreate
+ .text.vTaskStartScheduler
+                0x000025c0       0x5e ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x000025c0                vTaskStartScheduler
+ .text.xTimerIsTimerActive
+                0x0000261e       0x1c ./freeRTOS/RTOS/Free_RTOS/timers.o
+                0x0000261e                xTimerIsTimerActive
+ .text.pvTimerGetTimerID
+                0x0000263a        0x8 ./freeRTOS/RTOS/Free_RTOS/timers.o
+                0x0000263a                pvTimerGetTimerID
+ .text.xTimerGenericCommand
+                0x00002642       0x80 ./freeRTOS/RTOS/Free_RTOS/timers.o
+                0x00002642                xTimerGenericCommand
+ .text.prvCheckForValidListAndQueue
+                0x000026c2       0x60 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .text.xTimerCreate
+                0x00002722       0x7c ./freeRTOS/RTOS/Free_RTOS/timers.o
+                0x00002722                xTimerCreate
+ .text.xTimerCreateTimerTask
+                0x0000279e       0x54 ./freeRTOS/RTOS/Free_RTOS/timers.o
+                0x0000279e                xTimerCreateTimerTask
+ .text.prvSampleTimeNow
+                0x000027f2       0xec ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .text.prvInsertTimerInActiveList
+                0x000028de       0x4e ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .text.prvTimerTask
+                0x0000292c      0x1c6 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .text.RTOS_vScheduler
+                0x00002af2       0x64 ./RTOS/RTOS_prg.o
+ .text.RTOS_u8CreateTask
+                0x00002b56       0x60 ./RTOS/RTOS_prg.o
+                0x00002b56                RTOS_u8CreateTask
+ .text.RTOS_u8DeleteTask
+                0x00002bb6       0x2e ./RTOS/RTOS_prg.o
+                0x00002bb6                RTOS_u8DeleteTask
+ .text.RTOS_u8SuspendTask
+                0x00002be4       0x26 ./RTOS/RTOS_prg.o
+                0x00002be4                RTOS_u8SuspendTask
+ .text.RTOS_u8ResumeTask
+                0x00002c0a       0x28 ./RTOS/RTOS_prg.o
+                0x00002c0a                RTOS_u8ResumeTask
+ .text.RTOS_vStartOS
+                0x00002c32       0x1e ./RTOS/RTOS_prg.o
+                0x00002c32                RTOS_vStartOS
+ .text.MWDT_vEnable
+                0x00002c50       0x12 ./MCAL/WDT/WDT_prg.o
+                0x00002c50                MWDT_vEnable
+ .text.MWDT_vDisable
+                0x00002c62        0x8 ./MCAL/WDT/WDT_prg.o
+                0x00002c62                MWDT_vDisable
+ .text.MUSART_vInit
+                0x00002c6a       0x10 ./MCAL/USART/USART_prg.o
+                0x00002c6a                MUSART_vInit
+ .text.MUSART_vTransmit
+                0x00002c7a        0x8 ./MCAL/USART/USART_prg.o
+                0x00002c7a                MUSART_vTransmit
+ .text.MUSART_vReceive
+                0x00002c82        0x8 ./MCAL/USART/USART_prg.o
+                0x00002c82                MUSART_vReceive
+ .text.MTWI_vInit
+                0x00002c8a        0xc ./MCAL/TWI/TWI_prg.o
+                0x00002c8a                MTWI_vInit
+ .text.MTWI_u8SendStartCondition
+                0x00002c96       0x10 ./MCAL/TWI/TWI_prg.o
+                0x00002c96                MTWI_u8SendStartCondition
+ .text.MTWI_u8ResendStartCondition
+                0x00002ca6       0x10 ./MCAL/TWI/TWI_prg.o
+                0x00002ca6                MTWI_u8ResendStartCondition
+ .text.MTWI_u8SendSLA_RW
+                0x00002cb6       0x1c ./MCAL/TWI/TWI_prg.o
+                0x00002cb6                MTWI_u8SendSLA_RW
+ .text.MTWI_u8SendByte
+                0x00002cd2       0x12 ./MCAL/TWI/TWI_prg.o
+                0x00002cd2                MTWI_u8SendByte
+ .text.MTWI_u8ReceiveByte
+                0x00002ce4       0x2e ./MCAL/TWI/TWI_prg.o
+                0x00002ce4                MTWI_u8ReceiveByte
+ .text.MTWI_u8SentStopCondition
+                0x00002d12        0xa ./MCAL/TWI/TWI_prg.o
+                0x00002d12                MTWI_u8SentStopCondition
+ .text.MTWI_u8GetStatusCode
+                0x00002d1c        0x6 ./MCAL/TWI/TWI_prg.o
+                0x00002d1c                MTWI_u8GetStatusCode
+ .text.MTIMERS_vSetIntervalAsych_CB
+                0x00002d22       0x1a ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002d22                MTIMERS_vSetIntervalAsych_CB
+ .text.MTIMERS_vSetInterval_CTC
+                0x00002d3c       0x1c ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002d3c                MTIMERS_vSetInterval_CTC
+ .text.MTIMERS_vStartTimer
+                0x00002d58       0x1c ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002d58                MTIMERS_vStartTimer
+ .text.MTIMERS_vStopTimer
+                0x00002d74       0x18 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002d74                MTIMERS_vStopTimer
+ .text.MTIMERS_vSetCompareMatch
+                0x00002d8c       0x14 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002d8c                MTIMERS_vSetCompareMatch
+ .text.MTIMERS_vSetICU_CB
+                0x00002da0        0xa ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002da0                MTIMERS_vSetICU_CB
+ .text.MTIMERS_u16GetCapturedValue
+                0x00002daa        0x8 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002daa                MTIMERS_u16GetCapturedValue
+ .text.MTIMERS_SetTrigger
+                0x00002db2       0x1a ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002db2                MTIMERS_SetTrigger
+ .text.MTIMERS_vEnableInterrupt
+                0x00002dcc       0x2c ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002dcc                MTIMERS_vEnableInterrupt
+ .text.MTIMERS_vInit
+                0x00002df8       0x2e ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002df8                MTIMERS_vInit
+ .text.MTIMERS_vDisableInterrupt
+                0x00002e26       0x2c ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002e26                MTIMERS_vDisableInterrupt
+ .text.__vector_11
+                0x00002e52       0xa2 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002e52                __vector_11
+ .text.__vector_10
+                0x00002ef4       0xa2 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002ef4                __vector_10
+ .text.__vector_6
+                0x00002f96       0x52 ./MCAL/TIMERS/TIMERS_prg.o
+                0x00002f96                __vector_6
+ .text.MSPI_vTransmit
+                0x00002fe8        0x8 ./MCAL/SPI/SPI_prg.o
+                0x00002fe8                MSPI_vTransmit
+ .text.MSPI_vTransceive
+                0x00002ff0        0xa ./MCAL/SPI/SPI_prg.o
+                0x00002ff0                MSPI_vTransceive
+ .text.MSPI_u8Receive
+                0x00002ffa        0x8 ./MCAL/SPI/SPI_prg.o
+                0x00002ffa                MSPI_u8Receive
+ .text.MSPI_vInit
+                0x00003002       0x24 ./MCAL/SPI/SPI_prg.o
+                0x00003002                MSPI_vInit
+ .text.MGIE_vEnableGlobalInterrupt
+                0x00003026        0x8 ./MCAL/GIE/GIE_prg.o
+                0x00003026                MGIE_vEnableGlobalInterrupt
+ .text.MGIE_vDisableGlobalInterrupt
+                0x0000302e        0x8 ./MCAL/GIE/GIE_prg.o
+                0x0000302e                MGIE_vDisableGlobalInterrupt
+ .text.MEXTI_vInit
+                0x00003036       0x14 ./MCAL/EXTI/EXTI_prg.o
+                0x00003036                MEXTI_vInit
+ .text.MEXTI_vCallBackFunction
+                0x0000304a       0x12 ./MCAL/EXTI/EXTI_prg.o
+                0x0000304a                MEXTI_vCallBackFunction
+ .text.__vector_1
+                0x0000305c       0x52 ./MCAL/EXTI/EXTI_prg.o
+                0x0000305c                __vector_1
+ .text.__vector_2
+                0x000030ae       0x52 ./MCAL/EXTI/EXTI_prg.o
+                0x000030ae                __vector_2
+ .text.__vector_3
+                0x00003100       0x52 ./MCAL/EXTI/EXTI_prg.o
+                0x00003100                __vector_3
+ .text.MDIO_vInit
+                0x00003152       0x12 ./MCAL/DIO/DIO_prg.o
+                0x00003152                MDIO_vInit
+ .text.MDIO_vSetPinDir
+                0x00003164       0xe6 ./MCAL/DIO/DIO_prg.o
+                0x00003164                MDIO_vSetPinDir
+ .text.MDIO_vSetPinVal
+                0x0000324a       0xe6 ./MCAL/DIO/DIO_prg.o
+                0x0000324a                MDIO_vSetPinVal
+ .text.MDIO_u8GETPinVal
+                0x00003330       0x3e ./MCAL/DIO/DIO_prg.o
+                0x00003330                MDIO_u8GETPinVal
+ .text.MDIO_vSetPortDir
+                0x0000336e       0x22 ./MCAL/DIO/DIO_prg.o
+                0x0000336e                MDIO_vSetPortDir
+ .text.MDIO_vSetPortVal
+                0x00003390       0x22 ./MCAL/DIO/DIO_prg.o
+                0x00003390                MDIO_vSetPortVal
+ .text.MDIO_u8GetPortVal
+                0x000033b2       0x22 ./MCAL/DIO/DIO_prg.o
+                0x000033b2                MDIO_u8GetPortVal
+ .text.MDIO_vTogPinVal
+                0x000033d4       0x6a ./MCAL/DIO/DIO_prg.o
+                0x000033d4                MDIO_vTogPinVal
+ .text.MADC_vInit
+                0x0000343e       0x14 ./MCAL/ADC/ADC_prg.o
+                0x0000343e                MADC_vInit
+ .text.MADC_u16AnalogRead
+                0x00003452       0x1a ./MCAL/ADC/ADC_prg.o
+                0x00003452                MADC_u16AnalogRead
+ .text.STEPPER_vStop
+                0x0000346c       0x2a ./HAL/STEPPER/STEPPER_prg.o
+                0x0000346c                STEPPER_vStop
+ .text.STEPPER_vRotateCCW
+                0x00003496      0x276 ./HAL/STEPPER/STEPPER_prg.o
+                0x00003496                STEPPER_vRotateCCW
+ .text.STEPPER_vRotateCW
+                0x0000370c      0x276 ./HAL/STEPPER/STEPPER_prg.o
+                0x0000370c                STEPPER_vRotateCW
+ .text.STEPPER_vInit
+                0x00003982       0x2a ./HAL/STEPPER/STEPPER_prg.o
+                0x00003982                STEPPER_vInit
+ .text.HSSD_vDisplayNumaber
+                0x000039ac       0x18 ./HAL/SSD/SSD_prg.o
+                0x000039ac                HSSD_vDisplayNumaber
+ .text.HSSD_vInit
+                0x000039c4        0xa ./HAL/SSD/SSD_prg.o
+                0x000039c4                HSSD_vInit
+ .text.HLCD_vSendChar
+                0x000039ce       0x4c ./HAL/LCD/LCD_prg.o
+                0x000039ce                HLCD_vSendChar
+ .text.HLCD_vDisplayCustomChar
+                0x00003a1a        0x6 ./HAL/LCD/LCD_prg.o
+                0x00003a1a                HLCD_vDisplayCustomChar
+ .text.HLCD_vSendNumber
+                0x00003a20       0xc8 ./HAL/LCD/LCD_prg.o
+                0x00003a20                HLCD_vSendNumber
+ .text.HLCD_vSendStr
+                0x00003ae8       0x1a ./HAL/LCD/LCD_prg.o
+                0x00003ae8                HLCD_vSendStr
+ .text.HLCD_vSendCmd
+                0x00003b02       0x4c ./HAL/LCD/LCD_prg.o
+                0x00003b02                HLCD_vSendCmd
+ .text.HLCD_vClearScreen
+                0x00003b4e        0x8 ./HAL/LCD/LCD_prg.o
+                0x00003b4e                HLCD_vClearScreen
+ .text.HLCD_vStoreCustomChar
+                0x00003b56       0x3c ./HAL/LCD/LCD_prg.o
+                0x00003b56                HLCD_vStoreCustomChar
+ .text.HLCD_vSetCursorPosition
+                0x00003b92       0x1e ./HAL/LCD/LCD_prg.o
+                0x00003b92                HLCD_vSetCursorPosition
+ .text.HLCD_vInit
+                0x00003bb0       0x72 ./HAL/LCD/LCD_prg.o
+                0x00003bb0                HLCD_vInit
+ .text.HKPD_u8GetPressedKey
+                0x00003c22       0x98 ./HAL/KPD/KPD_prg.o
+                0x00003c22                HKPD_u8GetPressedKey
+ .text.HKPD_vInit
+                0x00003cba       0x8e ./HAL/KPD/KPD_prg.o
+                0x00003cba                HKPD_vInit
+ .text.EEPROM_read_byte
+                0x00003d48        0xe ./APP/main.o
+                0x00003d48                EEPROM_read_byte
+ .text.Save_Status_Snapshot
+                0x00003d56       0xb6 ./APP/main.o
+                0x00003d56                Save_Status_Snapshot
+ .text.Log_Event
+                0x00003e0c       0x52 ./APP/main.o
+                0x00003e0c                Log_Event
+ .text.SendString
+                0x00003e5e       0x1a ./APP/main.o
+                0x00003e5e                SendString
+ .text.Process_Buttons
+                0x00003e78      0x1c8 ./APP/main.o
+                0x00003e78                Process_Buttons
+ .text.Check_Override_Switches
+                0x00004040       0xc4 ./APP/main.o
+                0x00004040                Check_Override_Switches
+ .text.Send_Logs
+                0x00004104      0x182 ./APP/main.o
+                0x00004104                Send_Logs
+ .text.SendStatus
+                0x00004286      0x10e ./APP/main.o
+                0x00004286                SendStatus
+ .text.Send_Status_Snapshots
+                0x00004394      0x1f2 ./APP/main.o
+                0x00004394                Send_Status_Snapshots
+ .text.UpdateLCD
+                0x00004586       0xc0 ./APP/main.o
+                0x00004586                UpdateLCD
+ .text.UpdateHardware
+                0x00004646       0xa4 ./APP/main.o
+                0x00004646                UpdateHardware
+ .text.main     0x000046ea      0x392 ./APP/main.o
+                0x000046ea                main
+ .text.libgcc   0x00004a7c       0x18 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x00004a7c                __udivmodqi4
+ .text.libgcc   0x00004a94       0x28 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00004a94                __udivmodhi4
+ .text.libgcc   0x00004abc       0x26 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00004abc                __divmodhi4
+                0x00004abc                _div
+ .text.libgcc   0x00004ae2       0x44 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00004ae2                __udivmodsi4
+ .text.libgcc   0x00004b26        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00004b26        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00004b26        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00004b26       0x38 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00004b26                __prologue_saves__
+ .text.libgcc   0x00004b5e       0x36 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00004b5e                __epilogue_restores__
+ .text.avr-libc
+                0x00004b94       0x12 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x00004b94                memcpy
+ .text.avr-libc
+                0x00004ba6        0xe c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00004ba6                memset
+ .text.avr-libc
+                0x00004bb4       0x1e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00004bb4                strncpy
+                0x00004bd2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00004bd2        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00004bd2                exit
+                0x00004bd2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00004bd2        0x4 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00004bd6                _etext = .
+
+.data           0x00800060      0x64c load address 0x00004bd6
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .data          0x00800060        0x0 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+ .data          0x00800060        0x0 ./freeRTOS/RTOS/Free_RTOS/list.o
+ .data          0x00800060        0x0 ./freeRTOS/RTOS/Free_RTOS/port.o
+ .data          0x00800060        0x0 ./freeRTOS/RTOS/Free_RTOS/queue.o
+ .data          0x00800060        0x5 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .data          0x00800065        0x8 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .data          0x0080006d        0x0 ./RTOS/RTOS_prg.o
+ .data          0x0080006d        0x0 ./MCAL/WDT/WDT_prg.o
+ .data          0x0080006d        0x0 ./MCAL/USART/USART_prg.o
+ .data          0x0080006d        0x0 ./MCAL/TWI/TWI_prg.o
+ .data          0x0080006d        0x0 ./MCAL/TIMERS/TIMERS_prg.o
+ .data          0x0080006d        0x0 ./MCAL/SPI/SPI_prg.o
+ .data          0x0080006d        0x0 ./MCAL/GIE/GIE_prg.o
+ .data          0x0080006d        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .data          0x0080006d        0x0 ./MCAL/DIO/DIO_prg.o
+ .data          0x0080006d        0x0 ./MCAL/ADC/ADC_prg.o
+ .data          0x0080006d        0x0 ./HAL/STEPPER/STEPPER_prg.o
+ .data          0x0080006d        0x0 ./HAL/SSD/SSD_prg.o
+ .data          0x0080006d        0x0 ./HAL/LCD/LCD_prg.o
+ .data          0x0080006d        0x0 ./HAL/KPD/KPD_prg.o
+ .data          0x0080006d      0x627 ./APP/main.o
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800694        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800694        0x8 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800694                __thenan_sf
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x0080069c        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ *(.data*)
+ .data.xNextTaskUnblockTime
+                0x0080069c        0x2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .data.btn_living_old
+                0x0080069e        0x1 ./APP/main.o
+                0x0080069e                btn_living_old
+ .data.btn_bedroom_old
+                0x0080069f        0x1 ./APP/main.o
+                0x0080069f                btn_bedroom_old
+ .data.btn_security_old
+                0x008006a0        0x1 ./APP/main.o
+                0x008006a0                btn_security_old
+ *(.rodata)
+ *(.rodata*)
+ .rodata.sevenSegment
+                0x008006a1        0xa ./HAL/SSD/SSD_prg.o
+ *(.gnu.linkonce.d*)
+                0x008006ac                . = ALIGN (0x2)
+ *fill*         0x008006ab        0x1 00
+                0x008006ac                _edata = .
+                0x008006ac                PROVIDE (__data_end, .)
+
+.bss            0x008006ac      0x51b
+                0x008006ac                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/list.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/port.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/queue.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss           0x008006ac        0x0 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss           0x008006ac        0x0 ./RTOS/RTOS_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/WDT/WDT_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/USART/USART_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/TWI/TWI_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/SPI/SPI_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/GIE/GIE_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/DIO/DIO_prg.o
+ .bss           0x008006ac        0x0 ./MCAL/ADC/ADC_prg.o
+ .bss           0x008006ac        0x0 ./HAL/STEPPER/STEPPER_prg.o
+ .bss           0x008006ac        0x0 ./HAL/SSD/SSD_prg.o
+ .bss           0x008006ac        0x0 ./HAL/LCD/LCD_prg.o
+ .bss           0x008006ac        0x0 ./HAL/KPD/KPD_prg.o
+ .bss           0x008006ac        0x0 ./APP/main.o
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x008006ac        0x0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ *(.bss*)
+ .bss.pxCurrentCoRoutine
+                0x008006ac        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+                0x008006ac                pxCurrentCoRoutine
+ .bss.uxTopCoRoutineReadyPriority
+                0x008006ae        0x1 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xLastTickCount
+                0x008006af        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xPassedTicks
+                0x008006b1        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xCoRoutineTickCount
+                0x008006b3        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x008006b5       0x12 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x008006c7        0x9 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x008006d0        0x9 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x008006d9        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x008006db        0x2 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x008006dd        0x9 ./freeRTOS/RTOS/Free_RTOS/croutine.o
+ .bss.xNextFreeByte
+                0x008006e6        0x2 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+ .bss.xHeap     0x008006e8      0x3e8 ./freeRTOS/RTOS/Free_RTOS/heap_1.o
+ .bss.pxCurrentTCB
+                0x00800ad0        0x2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+                0x00800ad0                pxCurrentTCB
+ .bss.uxTopReadyPriority
+                0x00800ad2        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x00800ad3        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x00800ad4        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xMissedYield
+                0x00800ad5        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x00800ad6        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xTickCount
+                0x00800ad7        0x2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxMissedTicks
+                0x00800ad9        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x00800ada        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxTasksDeleted
+                0x00800adb        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxTaskNumber
+                0x00800adc        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.uxTopUsedPriority
+                0x00800add        0x1 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.pxReadyTasksLists
+                0x00800ade       0x24 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x00800b02        0x9 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x00800b0b        0x9 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.pxDelayedTaskList
+                0x00800b14        0x2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00800b16        0x2 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xPendingReadyList
+                0x00800b18        0x9 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x00800b21        0x9 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xSuspendedTaskList
+                0x00800b2a        0x9 ./freeRTOS/RTOS/Free_RTOS/tasks.o
+ .bss.xTimerQueue
+                0x00800b33        0x2 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.xLastTime.1600
+                0x00800b35        0x2 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.xActiveTimerList1
+                0x00800b37        0x9 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.xActiveTimerList2
+                0x00800b40        0x9 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.pxCurrentTimerList
+                0x00800b49        0x2 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.pxOverflowTimerList
+                0x00800b4b        0x2 ./freeRTOS/RTOS/Free_RTOS/timers.o
+ .bss.G_xSystemTasks
+                0x00800b4d       0x3c ./RTOS/RTOS_prg.o
+ .bss.TaskTiming
+                0x00800b89       0x14 ./RTOS/RTOS_prg.o
+ .bss.G_TIMER1_ICU_CB
+                0x00800b9d        0x2 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.G_u32T_required
+                0x00800b9f        0x4 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.G_TIMER_CTC_CB
+                0x00800ba3        0x2 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.LS_u32Counter.1364
+                0x00800ba5        0x4 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.G_TIMER_OVF_CB
+                0x00800ba9        0x2 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.LS_u32T_OVF.1354
+                0x00800bab        0x4 ./MCAL/TIMERS/TIMERS_prg.o
+ .bss.G_EXTI_Callback
+                0x00800baf        0x6 ./MCAL/EXTI/EXTI_prg.o
+ .bss.living_room_light
+                0x00800bb5        0x1 ./APP/main.o
+                0x00800bb5                living_room_light
+ .bss.bedroom_light
+                0x00800bb6        0x1 ./APP/main.o
+                0x00800bb6                bedroom_light
+ .bss.security_alarm
+                0x00800bb7        0x1 ./APP/main.o
+                0x00800bb7                security_alarm
+ .bss.fan_on    0x00800bb8        0x1 ./APP/main.o
+                0x00800bb8                fan_on
+ .bss.master_override
+                0x00800bb9        0x1 ./APP/main.o
+                0x00800bb9                master_override
+ .bss.lock_mode
+                0x00800bba        0x1 ./APP/main.o
+                0x00800bba                lock_mode
+ .bss.log_index
+                0x00800bbb        0x1 ./APP/main.o
+                0x00800bbb                log_index
+ .bss.command_count
+                0x00800bbc        0x1 ./APP/main.o
+                0x00800bbc                command_count
+ .bss.system_uptime
+                0x00800bbd        0x2 ./APP/main.o
+                0x00800bbd                system_uptime
+ .bss.status_snapshot_index
+                0x00800bbf        0x1 ./APP/main.o
+                0x00800bbf                status_snapshot_index
+ .bss.uptime_counter.1675
+                0x00800bc0        0x2 ./APP/main.o
+ .bss.lcd_counter.1674
+                0x00800bc2        0x1 ./APP/main.o
+ .bss.status_timer.1657
+                0x00800bc3        0x2 ./APP/main.o
+ .bss.buzzer_counter.1492
+                0x00800bc5        0x1 ./APP/main.o
+ .bss.buzzer_toggle.1491
+                0x00800bc6        0x1 ./APP/main.o
+ *(COMMON)
+                0x00800bc7                PROVIDE (__bss_end, .)
+                0x00004bd6                __data_load_start = LOADADDR (.data)
+                0x00005222                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800bc7        0x0
+                0x00800bc7                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800bc7                PROVIDE (__noinit_end, .)
+                0x00800bc7                _end = .
+                0x00800bc7                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000100       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x170
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000008c       0x1e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000aa       0x1e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000c8       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000000e8       0x22 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000010a       0x1f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000129       0x21 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000014a       0x26 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x1c49
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x27f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000c2f      0x27f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00000eae      0x27f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000112d      0x2b0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000013dd      0x12c c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001509      0x2df c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x000017e8      0x251 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001a39      0x210 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xeeb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x15a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000005bc      0x15a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000716      0x15a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000870      0x17f c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x000009ef       0xad c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000a9c      0x1c0 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000c5c      0x154 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000db0      0x13b c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xdad
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f       0xd3 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000662       0xd3 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000735       0xd3 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000808      0x109 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000911       0x90 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000009a1      0x18a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000b2b      0x14b c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000c76      0x137 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x160
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000100       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000120       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000140       0x20 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x28d
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233        0xf c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000242        0x8 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000024a        0x8 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000252        0xa c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000025c       0x16 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000272        0xb c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x0000027d       0x10 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x7ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0x7e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000594      0x13e c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000006d2       0xac c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000077e       0x50 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Drivers.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/users/acer/downloads/imt tools/imt tools/sdk/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
